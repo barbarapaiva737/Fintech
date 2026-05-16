@@ -88,3 +88,34 @@ main{
     padding: 10px 20px;
 
 }
+
+.section-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 60px;
+
+}
+.container-item{
+
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 0.5px;
+    width: 597.5px;
+}
+.container-item h2{
+    font-family: var(--font-family-primary);
+    font-size: var(--font-size-h2);
+    font-weight: var(--font-weight-h2);
+
+}
+.container-item h2 span{
+    color: var(--color-primary);
+}
+.container-item p{
+    font-family: var(--font-family-primary);
+    font-size: var(--font-size-body);
+
+}
