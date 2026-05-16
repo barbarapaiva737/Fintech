@@ -21,14 +21,14 @@
     --font-size-buton: 16px;
     --font-size-caption: 14px;
 
-    --font-wight-h1: 700;
-    --font-wight-h2:700;
-    --font-wight-h3: 700;
-    --font-wight-h4: 500;
-    --font-wight-h5: 500;
-    --font-wight-button: 700;
-    --font-wight-body: 400;
-    --font-wight-caption: 400;
+    --font-weight-h1: 700;
+    --font-weight-h2:700;
+    --font-weight-h3: 700;
+    --font-weight-h4: 500;
+    --font-weight-h5: 500;
+    --font-weight-button: 700;
+    --font-weight-body: 400;
+    --font-weight-caption: 400;
 
     --font-family-primary: "Inter", sans-serif;
 
